@@ -87,7 +87,7 @@ nvidia-smi
 ```
 
 ✅ **Expected:**
-- GTX 1050 Ti visible
+- Your GPU. In my case a GTX 1050 Ti visible
 - Driver version shown
 
 🚫 **If this fails — stop here.**
